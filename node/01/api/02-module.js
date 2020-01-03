@@ -1,3 +1,3 @@
-
-// str = 'abc'
-const run = require('./01-run')
+const run = require("./01-run");
+run.showState();
+// console.log(run);
